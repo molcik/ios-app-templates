@@ -20,15 +20,13 @@ A curated list of iOS Xcode Project App Templates.
 
 
 ## What's next
-
 - Any suggestions?
 
 ## Contribution
 - If you have a **feature request**, open an **issue**
 - If you want to **contribute**, submit a **pull request**
-- If you have any issue or want **help**, please drop me a mail on jogendra.iitbhu@gmail.com
 
-### Inspired by:
+### Inspired by
 [Example Apps](https://github.com/jogendra/example-ios-apps)
 
 # License
