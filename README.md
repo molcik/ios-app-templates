@@ -32,4 +32,4 @@ A curated list of iOS Xcode Project App Templates.
 [Example Apps](https://github.com/jogendra/example-ios-apps)
 
 # License
- * Distributed under the MIT license. See [LICENSE](https://github.com/imjog/example-ios-apps/blob/master/LICENSE) for more information.
+ * Distributed under the MIT license. See [LICENSE](https://github.com/molcik/ios-app-templates/blob/main/LICENSE) for more information.
