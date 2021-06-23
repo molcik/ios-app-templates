@@ -13,6 +13,7 @@ A curated list of iOS Xcode Project App Templates.
 * [SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB) - SwiftUI MovieDB prototype app
 * [Puffery](https://github.com/vknabel/puffery) - An iOS App written in SwiftUI to send push notifications fueled by Siri Shortcuts
 * [KHabit](https://github.com/elkiwy/khabit) - a pure and minimalistic app which helps you maintain productive habits, and nothing more.
+* [KBudget](https://github.com/elkiwy/KBudget) - a pure and minimalistic app which helps you maintain your budget.
 * [GitHawk](https://github.com/rnystrom/GitHawk) - A GitHub project manager app for iOS
 * [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress for iOS - Official repository (ios.wordpress.org)
 * [Artsy](https://github.com/artsy/eidolon) - An art auction app.
