@@ -1,10 +1,8 @@
 # iOS App Templates
 A curated list of iOS Xcode Project App Templates. 
 
-## Paid
-* [iOS Elements](https://ioselements.com/) - iOS app template based on Sketch UI Elements.
-
 ## Free 
+* [SwiftUI Elements](https://github.com/molcik/swiftui-elements/) - iOS app template based on Sketch UI Elements.
 * [AppDesignKit](https://github.com/relatedcode/AppDesignKit) - App Design Kit is a collection of ready-to-use, iOS app template screens.
 * [Univerzal App Template](https://github.com/kwylez/Universal-iOS-App-Template) - Example project / starting point for making an universal iOS app.
 * [Reddit-SwiftUI](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI 
@@ -19,6 +17,7 @@ A curated list of iOS Xcode Project App Templates.
 * [Artsy](https://github.com/artsy/eidolon) - An art auction app.
 * [TweedleDumb](https://github.com/IanKeen/TweetleDumb) - A mock Twitter client built with MVVM and NavigationControllers. Small codebase, built with best practices in mind to demonstrate said practices. Great for learning purposes.
 
+## Paid
 
 ## What's next
 - Any suggestions?
